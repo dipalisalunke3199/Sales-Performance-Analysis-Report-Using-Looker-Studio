@@ -4,27 +4,27 @@
 ## Live Dashboard
 [View Dashboard](https://datastudio.google.com/reporting/9e472523-3ca0-4da5-9b61-8ed41fc31afa)
 # Project Overview
-Developed an interactive sales analytics dashboard using Google Looker Studio.
-Designed to analyze sales trends, regional performance, shipping efficiency, and product category contribution.
-Helps businesses make data-driven decisions through visual insights and interactive reporting.
+Developed an interactive sales analytics dashboard using Google Looker Studio.<br>
+Designed to analyze sales trends, regional performance, shipping efficiency, and product category contribution.<br>
+Helps businesses make data-driven decisions through visual insights and interactive reporting.<br>
 # Key Features
-Sales performance tracking over time
-Region-wise total orders analysis
-Average shipping time monitoring
-Product category contribution visualization
-Interactive filters for Region, State, Segment, and Ship Mode
-Dynamic charts and KPI cards
+Sales performance tracking over time<br>
+Region-wise total orders analysis<br>
+Average shipping time monitoring<br>
+Product category contribution visualization<br>
+Interactive filters for Region, State, Segment, and Ship Mode<br>
+Dynamic charts and KPI cards<br>
 # Key Insights
-Total Sales: 50,770
-Total Orders: 1,000
-Average Shipping Time: 3 Days
-East region recorded the highest number of orders
-Technology category contributed the highest sales share
+Total Sales: 50,770<br>
+Total Orders: 1,000<br>
+Average Shipping Time: 3 Days<br>
+East region recorded the highest number of orders<br>
+Technology category contributed the highest sales share<br>
 # Tools & Technologies
-Google Looker Studio
-Data Visualization
-Dashboard Design
-Business Analytics
+Google Looker Studio<br>
+Data Visualization<br>
+Dashboard Design<br>
+Business Analytics<br>
 # Objective
-To build an interactive dashboard for monitoring sales performance and identifying business trends.
-To provide meaningful insights into customer behavior, operational efficiency, and regional sales performance.
+To build an interactive dashboard for monitoring sales performance and identifying business trends.<br>
+To provide meaningful insights into customer behavior, operational efficiency, and regional sales performance.<br>
