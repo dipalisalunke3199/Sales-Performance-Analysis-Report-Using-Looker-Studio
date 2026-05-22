@@ -1,5 +1,5 @@
 # Sales-Performance-Analysis-Report-Using-Looker-Studio
-# Sales Performance Analysis Dashboard
+
 # Project Overview
 Developed an interactive sales analytics dashboard using Google Looker Studio.
 Designed to analyze sales trends, regional performance, shipping efficiency, and product category contribution.
