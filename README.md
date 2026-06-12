@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-Report-Using-Looker-Studio
+# Regional Sales & Logistics Dashboard | Looker Studio
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
 ## Live Dashboard
